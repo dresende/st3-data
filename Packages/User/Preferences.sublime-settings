@@ -3,6 +3,7 @@
 	"auto_complete_delay": 100,
 	"auto_find_in_selection": true,
 	"bold_folder_labels": true,
+	"close_windows_when_empty": true,
 	"color_scheme": "Packages/Base16 Color Schemes/base16-default.dark.tmTheme",
 	"default_line_ending": "unix",
 	"ensure_newline_at_eof_on_save": true,
@@ -17,7 +18,6 @@
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"hot_exit": false,
-	"close_windows_when_empty": true,
 	"ignored_packages":
 	[
 		"Vintage"
