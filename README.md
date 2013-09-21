@@ -22,8 +22,8 @@ I use it on OSX, so here are some of the things to expect:
 Keymaps
 =======
 
-⌘ + \ - Reindent lines 
-⌥ + ⇧ + Q - Switch quotes (from single to double and vice-versa)
+- ⌘ + \ - Reindent lines 
+- ⌥ + ⇧ + Q - Switch quotes (from single to double and vice-versa)
 
 License
 =======
