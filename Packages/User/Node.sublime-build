@@ -1,0 +1,5 @@
+{
+	"shell_cmd"   : "npm test",
+	"file_regex"  : "\\.js$",
+	"working_dir" : "${project_path:${folder}}"
+}

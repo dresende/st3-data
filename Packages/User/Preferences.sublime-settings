@@ -1,0 +1,73 @@
+{
+	"auto_complete_commit_on_tab": true,
+	"auto_complete_delay": 100,
+	"auto_find_in_selection": true,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Base16 Color Schemes/base16-default.dark.tmTheme",
+	"default_line_ending": "unix",
+	"ensure_newline_at_eof_on_save": true,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"node_modules"
+	],
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"hot_exit": false,
+	"close_windows_when_empty": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"show_tab_close_buttons": true,
+	"theme": "Soda Light.sublime-theme",
+	"trim_trailing_white_space_on_save": true,
+	"use_simple_full_screen": true,
+	"va_alignment_chars":
+	[
+		{
+			"alignment": "right",
+			"char": "=>",
+			"left_space": true,
+			"prefixes":
+			[
+			],
+			"right_space": true
+		},
+		{
+			"alignment": "right",
+			"char": "=",
+			"left_space": true,
+			"prefixes":
+			[
+				"+",
+				"-",
+				"&",
+				"|",
+				"<",
+				">",
+				"!",
+				"~",
+				"%",
+				"/",
+				"*",
+				"."
+			],
+			"right_space": true
+		},
+		{
+			"alignment": "right",
+			"char": ":",
+			"left_space": true,
+			"prefixes":
+			[
+			],
+			"right_space": true
+		}
+	],
+	"word_separators": "./\\()\"'-_:,.;<>~!@#$%^&*|+=[]{}`~?",
+	"word_wrap": true
+}
